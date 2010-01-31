@@ -1,0 +1,12 @@
+Dancer-Template-MicroTemplate
+
+Dancer template engine for Text::MicroTemplate
+
+This class is an interface between Dancer's template engine abstraction layer
+and the Text::MicroTemplate module.
+
+In order to use this engine, set the following setting as the following:
+
+    template: micro_template
+
+
