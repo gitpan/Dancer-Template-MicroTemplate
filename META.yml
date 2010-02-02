@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Dancer-Template-MicroTemplate
-version:            0.1
+version:            0.01
 abstract:           Dancer template engine for Text::MicroTemplate
 author:
     - Franck Cuny <franck@lumberjaph.net>
