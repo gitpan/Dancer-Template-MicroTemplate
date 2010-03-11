@@ -1,5 +1,8 @@
 Revision history for Dancer-Template-MicroTemplate
 
+0.02    Thu 11 Mar 2010 11:06:01 AM CET  
+        - use start and end tag from config
+
 0.01    Tue 02 Feb 2010 08:46:44 AM CET  
         - original version
 
