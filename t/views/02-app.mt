@@ -7,4 +7,4 @@ this is var1="<%= $var1 %>" and var2=<%= $var2 %>
 
 another line
 
- <%= $foo%> <%=$bar %> <%=$baz%>
+<%= $foo%> <%=$bar %> <%=$baz%>

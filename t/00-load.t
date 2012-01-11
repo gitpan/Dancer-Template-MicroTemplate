@@ -1,10 +1,6 @@
-use strict;
-use warnings;
 use Test::More tests => 1;
 
-BEGIN {
-    use_ok( 'Dancer::Template::MicroTemplate' ) || print "Bail out!
-";
-}
+use strict;
+use warnings;
 
-diag( "Testing Dancer::Template::MicroTemplate $Dancer::Template::MicroTemplate::VERSION, Perl $], $^X" );
+use_ok 'Dancer::Template::MicroTemplate';
