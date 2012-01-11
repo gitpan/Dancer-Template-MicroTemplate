@@ -1,4 +1,4 @@
-0.2.0   2012-01-11
+1.0.0   2012-01-11
 
     [BUG FIXES]
     * Allow all options of Text::MicroTemplate to be specified in config.

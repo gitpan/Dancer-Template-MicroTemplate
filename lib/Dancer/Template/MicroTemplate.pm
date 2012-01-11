@@ -10,7 +10,7 @@ use Text::MicroTemplate::File;
 use vars '$VERSION';
 use base 'Dancer::Template::Abstract';
 
-$VERSION = '0.2.0';
+$VERSION = '1.0.0';
 
 my $_engine;
 
